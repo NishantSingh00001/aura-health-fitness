@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Live Application
-Experience the live deployed application here: **[AURA Live on Netlify](https://zippy-daffodil-5f3e5b.netlify.app/)**
+Experience the live deployed application here: **[AURA Live on Netlify](https://aura-nishant.netlify.app/)**
 
 ---
 
